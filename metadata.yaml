@@ -1,0 +1,32 @@
+_repo: The-Scarlet-Stigma--A-Drama-in-Four-Acts_31112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: &id001 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Smith, James Edgar
+    alias: Smith, J. Edgar (James Edgar)
+    birthdate: *id001
+    gutenberg_agent_id: '35009'
+    url: http://www.gutenberg.org/2009/agents/35009
+description: ''
+gutenberg_issued: '2010-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adultery -- Drama'
+- !lcc 'PS'
+title: 'The Scarlet Stigma: A Drama in Four Acts'
+url: http://www.gutenberg.org/ebooks/31112
