@@ -7,16 +7,18 @@ creator:
   authors:
   - agent_name: Hawthorne, Nathaniel
     birthdate: 1804
-    deathdate: &id001 1864
+    deathdate: 1864
     gutenberg_agent_id: '28'
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
   - agent_name: Smith, James Edgar
     alias: Smith, J. Edgar (James Edgar)
-    birthdate: *id001
+    birthdate: 1864
     gutenberg_agent_id: '35009'
     url: http://www.gutenberg.org/2009/agents/35009
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31112#The-Scarlet-Stigma--A-Drama-in-Four-Acts
 gutenberg_issued: '2010-01-28'
 gutenberg_type: Text
 identifiers:
